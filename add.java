@@ -1,6 +1,7 @@
-package ABC-classes;
+package GITDEMO;
 
 public class add {
-    //dgfdrd
-    
+    public static void main(String[] args) {
+       int a=10; 
+    }
 }
